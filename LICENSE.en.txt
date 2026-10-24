@@ -1,0 +1,34 @@
+ONECLICK&GO — FREE PERSONAL USE LICENSE AND INSTALLATION TERMS
+Edition 2 — October 24, 2026
+English translation of LICENSE.txt (Spanish original).
+Copyright © 2026 Omar Larbi Gutierrez. All rights reserved except for the permissions expressly granted.
+
+1. OWNERSHIP AND SCOPE
+Omar Larbi Gutierrez holds the rights to the proprietary components of OneClick&GO. This agreement governs the installation and use of the program distributed in executable form. No source code is provided or licensed. Third-party components are governed by their respective licenses.
+
+2. AUTHORIZED PERSONAL USE
+The individual user is granted a free, non-exclusive, non-transferable license to download from official channels, install and run OneClick&GO exclusively for personal, private and non-commercial use. This permission does not transfer ownership of the program or any exploitation rights other than those expressly stated.
+
+3. USES REQUIRING PERMISSION
+Prior, express written permission from Omar Larbi Gutierrez is required to use the program in a company, shop, business, professional activity or provision of services to third parties, or to obtain direct or indirect economic benefit. This restriction applies even if no specific charge is made for using OneClick&GO. It includes using the program to manage business equipment, offer paid simulation experiences, provide services or incorporate it into commercial products or packages. A free download, acceptance of this agreement or a donation does not replace that permission.
+
+4. RESERVED DISTRIBUTION RIGHTS
+Distribution of the program and its installer is reserved to the rights holder through the channels he designates. Without his prior written permission, selling, renting, sublicensing, transferring, giving copies to third parties, re-uploading files, creating alternative download sites or redistributing the program, in whole or in part, whether free of charge or for payment, is not permitted. Sharing links to official channels is permitted, without hosting or supplying copies. Acts and rights that cannot be waived under applicable law remain unaffected.
+
+5. MODIFICATIONS AND RESERVED RIGHTS
+Unless authorized in writing or permitted by a non-waivable legal provision, modifying, adapting, decompiling or creating derivative works of the program's proprietary components, or removing their ownership notices, is not permitted. No permission is granted to present third-party products as official or endorsed by the rights holder. Statutory exceptions are respected, including necessary backup copies and acts of study or interoperability permitted by law. These restrictions do not reduce the permissions granted by third-party component licenses.
+
+6. FREE USE AND DONATIONS
+Authorized personal use is free of charge. Donations are voluntary and support the growth of the project. They do not unlock features, files or content, grant advantages, priority support, commercial permissions or redistribution rights, or imply commitments to development or individual support.
+
+7. CONFIGURATION AND RESPONSIBLE USE
+The program may control external applications, USB ports, relays, fans and other devices. Users must check connections, loads, hardware limits and the effects of their configurations, and maintain backups of their data. It must not be used in systems whose safety depends on its operation. Versions identified as test versions may contain errors.
+
+8. WARRANTIES AND LIABILITY
+The program is provided "as is", without additional voluntary warranties of error-free or uninterrupted operation or suitability for a particular purpose. To the maximum extent permitted by applicable law, the rights holder excludes liability for data loss, interruptions, equipment damage or economic losses arising from use of the program, incorrect configurations or third-party modifications. The foregoing exclusions and limitations apply to the maximum extent permitted by applicable law.
+
+9. THIRD-PARTY COMPONENTS AND UPDATES
+Third-party components retain their notices, rights and licenses, which prevail in respect of those components. This license does not authorize separate exploitation of elements for which the rights holder cannot grant rights. Checking for updates does not constitute consent to automatically download or run installers. New terms accompanying future versions will be presented for acceptance when those versions are installed; they will not retroactively amend this agreement.
+
+10. ACCEPTANCE
+By selecting "I accept the agreement", users accept these terms to install and use the program. If they do not accept, they must cancel the installation. Automated installation requires an express declaration of acceptance through the installer's documented parameter. A copy of this agreement is installed for later reference. If a clause is invalid, the remaining clauses remain effective where they can lawfully do so. No provision constitutes a waiver of rights that cannot legally be waived.

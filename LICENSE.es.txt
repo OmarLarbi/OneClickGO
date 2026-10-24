@@ -1,0 +1,33 @@
+ONECLICK&GO — LICENCIA DE USO PERSONAL GRATUITO Y CONDICIONES DE INSTALACIÓN
+Edición 2 — 24 de octubre de 2026
+Copyright © 2026 Omar Larbi Gutierrez. Todos los derechos reservados, salvo los permisos expresamente concedidos.
+
+1. TITULARIDAD Y ALCANCE
+Omar Larbi Gutierrez es el titular de los derechos sobre los componentes propios de OneClick&GO. Este contrato regula la instalación y utilización del programa distribuido en forma ejecutable. No se entrega ni se concede una licencia sobre su código fuente. Los componentes de terceros se rigen por sus respectivas licencias.
+
+2. USO PERSONAL AUTORIZADO
+Se concede a la persona usuaria una licencia gratuita, no exclusiva e intransferible para descargar desde los canales oficiales, instalar y ejecutar OneClick&GO exclusivamente para su uso personal, privado y no comercial. Esta autorización no transmite la propiedad del programa ni derechos de explotación distintos de los expresamente indicados.
+
+3. USOS QUE REQUIEREN AUTORIZACIÓN
+Se requiere autorización previa, expresa y por escrito de Omar Larbi Gutierrez para utilizar el programa en una empresa, comercio, negocio, actividad profesional o prestación de servicios a terceros, o para obtener un beneficio económico directo o indirecto. Esta restricción se aplica aunque no se cobre específicamente por utilizar OneClick&GO. Incluye su uso para gestionar equipos de un negocio, ofrecer experiencias de simulación de pago, prestar servicios o incorporarlo a productos o paquetes comerciales. La descarga gratuita, la aceptación de este contrato o una donación no sustituyen dicha autorización.
+
+4. DISTRIBUCIÓN RESERVADA
+La distribución del programa y su instalador queda reservada al titular mediante los canales que este designe. Sin su autorización previa y por escrito, no se permite vender, alquilar, sublicenciar, ceder, entregar copias a terceros, volver a subir archivos, crear sitios de descarga alternativos ni redistribuir el programa, total o parcialmente, de forma gratuita o remunerada. Se permite compartir enlaces a los canales oficiales, sin alojar ni entregar copias. Quedan a salvo los actos y derechos que la legislación aplicable permita de forma irrenunciable.
+
+5. MODIFICACIONES Y DERECHOS RESERVADOS
+Salvo autorización escrita o permiso legal irrenunciable, no se autoriza modificar, adaptar, descompilar ni crear obras derivadas de los componentes propios del programa, ni eliminar sus avisos de titularidad. No se concede permiso para presentar productos de terceros como oficiales o respaldados por el titular. Se respetan las excepciones legales, incluida la copia de seguridad necesaria y los actos de estudio o interoperabilidad permitidos por la ley. Estas restricciones no reducen los permisos concedidos por las licencias de componentes de terceros.
+
+6. GRATUIDAD Y DONACIONES
+El uso personal autorizado es gratuito. Las donaciones son voluntarias y apoyan el crecimiento del proyecto. No desbloquean funciones, archivos o contenidos, no otorgan ventajas, soporte preferente, permisos comerciales ni derechos de redistribución, y no implican compromisos de desarrollo o soporte individualizado.
+
+7. CONFIGURACIÓN Y USO RESPONSABLE
+El programa puede controlar aplicaciones externas, USB, relés, ventiladores y otros dispositivos. El usuario debe comprobar las conexiones, cargas, límites del hardware y efectos de sus configuraciones, y mantener copias de seguridad de sus datos. No debe emplearse en sistemas cuya seguridad dependa de su funcionamiento. Las versiones identificadas como de prueba pueden contener errores.
+
+8. GARANTÍAS Y RESPONSABILIDAD
+El programa se ofrece «tal cual», sin garantías voluntarias adicionales de ausencia de errores, funcionamiento ininterrumpido o adecuación a una finalidad concreta. En la máxima medida permitida por la legislación aplicable, el titular excluye su responsabilidad por pérdidas de datos, interrupciones, daños a equipos o perjuicios económicos derivados del uso del programa, configuraciones incorrectas o modificaciones de terceros. Las exclusiones y limitaciones anteriores se aplicarán en la máxima medida permitida por la legislación aplicable.
+
+9. COMPONENTES DE TERCEROS Y ACTUALIZACIONES
+Los componentes de terceros conservan sus avisos, derechos y licencias, que prevalecen respecto de dichos componentes. Esta licencia no autoriza a explotar por separado elementos sobre los que el titular no pueda conceder derechos. La consulta de actualizaciones no supone consentimiento para descargar o ejecutar instaladores automáticamente. Las nuevas condiciones que acompañen futuras versiones se presentarán para su aceptación al instalarlas; no modificarán retroactivamente este contrato.
+
+10. ACEPTACIÓN
+Al seleccionar «Acepto el acuerdo», el usuario acepta estas condiciones para instalar y utilizar el programa. Si no las acepta, debe cancelar la instalación. La instalación automatizada requiere una declaración expresa de aceptación mediante el parámetro documentado del instalador. Se instala una copia de este contrato para su consulta posterior. La invalidez de una cláusula no afectará a las restantes cuando puedan subsistir legalmente. Ninguna disposición supone renuncia a derechos legalmente irrenunciables.
