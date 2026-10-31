@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/OCGSim_Logo.png" alt="OCGSim logo" width="160" height="160">
+  <img src="assets/OCGSim_Titulo.png" alt="OCGSim logo" width="160" height="160">
 </p>
 <h1 align="center">OCGSim</h1>
 <p align="center">Game profiles, applications and OCG devices — managed together on Windows.</p>
