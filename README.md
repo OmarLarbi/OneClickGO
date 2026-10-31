@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/OCGSim-banner.png" alt="OCGSim" width="850">
+  <img src="assets/OCGSim-banner.png" alt="OCGSim" width="600">
 </p>
 
 <p align="center">Game profiles, applications and OCG devices — managed together on Windows.</p>
@@ -12,11 +12,7 @@
 
 ## English
 
-**OCGSim is the new name of OneClick&GO.** This remains its official distribution repository. The repository address stays unchanged, and earlier releases and license documents may use the previous name.
-
-OCGSim brings together game profiles, associated applications, audio and OpenXR settings, and compatible OCG hardware. It also provides firmware installation and update tools for supported OCG devices.
-
-This repository contains Windows installers, release notes and license documents. The application's source code is not published here.
+OCGSim prepares your gaming or simulation setup from a single profile: launch associated applications, apply audio and OpenXR settings, and control USB ports and relays on compatible OCG devices. It also provides tools to drive Bass-Shakers directly from game audio, with adjustable filtering and intensity, and to configure OCG devices and install or update their firmware.
 
 ### Downloads
 
@@ -36,11 +32,7 @@ Donations are voluntary, provide no additional features or benefits, and do not 
 
 ## Español
 
-**OCGSim es el nuevo nombre de OneClick&GO.** Este sigue siendo su repositorio oficial de distribución. Su dirección no cambia; las versiones anteriores y los documentos de licencia pueden conservar el nombre anterior.
-
-OCGSim reúne perfiles de juego, aplicaciones asociadas, ajustes de audio y OpenXR y hardware OCG compatible. También ofrece herramientas de instalación y actualización de firmware para los dispositivos OCG admitidos.
-
-Este repositorio contiene instaladores para Windows, notas de versiones y licencias. El código fuente de la aplicación no se publica aquí.
+OCGSim prepara tu equipo para jugar o simular desde un único perfil: inicia las aplicaciones asociadas, aplica los ajustes de audio y OpenXR y controla los puertos USB y relés de dispositivos OCG compatibles. También ofrece herramientas para usar Bass-Shakers directamente con el audio del juego, con ajustes de filtrado e intensidad, y para configurar los dispositivos OCG e instalar o actualizar su firmware.
 
 ### Descargas
 
@@ -55,5 +47,8 @@ OCGSim es software propietario gratuito para uso personal, privado y no comercia
 Consulta la [licencia original en español](LICENSE.es.txt) antes de descargar o instalar. También está disponible su [traducción al inglés](LICENSE.en.txt). Esta presentación no modifica esos documentos de licencia.
 
 Las donaciones son voluntarias, no ofrecen funciones ni beneficios adicionales y no conceden permisos comerciales ni de redistribución. Se mantienen disponibles los [datos de donantes](donantes.json) y los [objetivos del proyecto](objetivos-donaciones.json).
+
+
+
 
 
