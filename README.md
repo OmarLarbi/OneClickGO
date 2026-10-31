@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="assets/OCGSim_Titulo.png" alt="OCGSim logo" width="160" height="160">
+  <img src="assets/OCGSim-banner.png" alt="OCGSim" width="850">
 </p>
-<h1 align="center">OCGSim</h1>
+
 <p align="center">Game profiles, applications and OCG devices — managed together on Windows.</p>
 <p align="center"><a href="https://github.com/OmarLarbi/OneClickGO/releases">Download / Descargar</a> · <a href="LICENSE.en.txt">English license</a> · <a href="LICENSE.es.txt">Licencia en español</a></p>
+
+<p align="center">
+  <img src="assets/OCGSim-dashboard.png" alt="OCGSim Dashboard: game profiles, audio, OpenXR, applications and OCG hardware" width="1200">
+</p>
+<p align="center"><em>Dashboard overview / Vista general del Dashboard</em></p>
 
 ## English
 
@@ -50,3 +55,5 @@ OCGSim es software propietario gratuito para uso personal, privado y no comercia
 Consulta la [licencia original en español](LICENSE.es.txt) antes de descargar o instalar. También está disponible su [traducción al inglés](LICENSE.en.txt). Esta presentación no modifica esos documentos de licencia.
 
 Las donaciones son voluntarias, no ofrecen funciones ni beneficios adicionales y no conceden permisos comerciales ni de redistribución. Se mantienen disponibles los [datos de donantes](donantes.json) y los [objetivos del proyecto](objetivos-donaciones.json).
+
+
