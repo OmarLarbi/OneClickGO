@@ -2,7 +2,8 @@
   <img src="assets/OCGSim-banner.png" alt="OCGSim" width="600">
 </p>
 
-<p align="center">Game profiles, applications and OCG devices — managed together on Windows.</p>
+<p align="center">Game profiles, applications, audio devices control, control switch OpenXR and OCG devices — managed together on Windows.</p>
+<p align="center">Perfiles de juego, aplicaciones, control de dispositivos de audio, cambio de runtime OpenXR y dispositivos OCG: todo gestionado desde Windows.</p>
 <p align="center"><a href="https://github.com/OmarLarbi/OneClickGO/releases">Download / Descargar</a> · <a href="LICENSE.en.txt">English license</a> · <a href="LICENSE.es.txt">Licencia en español</a></p>
 
 <p align="center">
